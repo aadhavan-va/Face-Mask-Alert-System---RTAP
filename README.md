@@ -14,6 +14,9 @@ The images in the dataset are then converted into gray scale image and then norm
 The data in the dataset are then split into training and test data and CNN technique is performed . The generalised model is then saved using Checkpoint function from keras.callbacks library and the saved model is then used for detecting mask.<br>
 The cascadeClassifier xml file is used to detect the frontal face of a person and the model run on that algorithm and the face mask detection is performed.The face with no mask is shown as a warning message(to wear the face mask) and the alert mail is sent to the management server using SMTP technique.<br>
 
+## CNN Architecture
+
+
 
 
 
