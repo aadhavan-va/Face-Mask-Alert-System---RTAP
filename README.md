@@ -16,6 +16,9 @@ The cascadeClassifier xml file is used to detect the frontal face of a person an
 
 ## CNN Architecture
 
+![face_mask_detection](https://user-images.githubusercontent.com/51418721/97562000-feafeb80-1a06-11eb-94d1-58df42f437c3.png)
+
+
 
 
 
